@@ -37,8 +37,7 @@ router.post("/", (req, res) => {
 
   Tag.create({
     tag_name: req.body.tag_name,
-  });
-  then((data) => {
+  }).then((data) => {
     res.json(data);
   });
 });
