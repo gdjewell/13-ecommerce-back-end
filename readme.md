@@ -24,3 +24,7 @@ First, type in `npm run start` to start the application. You'll use the endpoint
 A video demonstrating the different routes available can be found here:
 
 ![](./assets/videos/insomnia-video-gif)
+
+## Contact
+
+You can contact me via email at [gdjewell@gmail.com](mailto:gdjewell@gmail.com) or on GitHub [@gdjewell](https://github.com/gdjewell).
