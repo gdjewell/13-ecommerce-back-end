@@ -17,6 +17,8 @@ or typing `mysql -u root -p` into the terminal, followed by `source ./db/schema.
 
 ![](./assets/videos/setup-video.gif)
 
+![](.assets/videos/insomnia-video.gif)
+
 ## Usage
 
 First, type in `npm run start` to start the application. You'll use the endpoints beginning with localhost:3001/api, and will be able to test endpoints with Insomnia.
