@@ -17,6 +17,8 @@ or typing `mysql -u root -p` into the terminal, followed by `source ./db/schema.
 
 ![](./assets/videos/setup-video.gif)
 
+A video on the route requests:
+
 ![](./assets/videos/insomnia-video.gif)
 
 ## Usage
